@@ -1,7 +1,6 @@
-# suggestions
-community outreach
+# Suggestions / Community outreach
 
-Poster vos suggestions sous la forme d'Issue sur le panneau à côté, merci!
-Post your suggestions in the form of issues in the next pannel, thanks!
+FR - Poster vos suggestions sous la forme d'Issue sur le panneau à côté, merci!
 
+EN - Post your suggestions in the form of issues in the next pannel, thanks!
 
